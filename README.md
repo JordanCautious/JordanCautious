@@ -3,7 +3,7 @@
 # 👋 Welcome to my Github profile!
 Hi! I'm interested in the realm of Data Analysis and Data Science! I hope to one day become of the best Data Scientists. My two main interests are business and technology, but I also like music and podcasts! My ultimate goal is to change the world in whatever way I can. 
 
-*More info about me can be found on my notion site!*
+*More info about me can be found on my  <a href="https://jordanh.notion.site/">notion site!</a>*
 
 ## Favorite Languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jordancautious&theme=gotham)
