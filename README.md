@@ -9,4 +9,4 @@ Hi! I'm interested in the realm of Data Analysis and Data Science! I hope to one
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jordancautious&theme=gotham)
 
 ## Overall Stats
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JordanCautious&layout=compact&show_icons=true&theme=gotham)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=JordanCautious&layout=compact&show_icons=true&theme=gotham)
