@@ -7,6 +7,3 @@ I'm an iOS Developer with a hunger and drive to fully understand Apple's softwar
 
 ## Favorite Languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jordancautious&theme=gotham)
-
-## Overall Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=JordanCautious&layout=compact&show_icons=true&theme=gotham)
